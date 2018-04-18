@@ -1,0 +1,5 @@
+font awesome for icons
+ajax
+bootstrap for responsiveness and layout
+less for styling
+jquery for effects
